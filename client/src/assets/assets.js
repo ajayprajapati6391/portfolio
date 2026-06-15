@@ -111,7 +111,7 @@ export const projects = [
       "A simple web application built using HTML, CSS, and JavaScript to calculate age based on date of birth input.",
     image: age,
     tech: ["HTML", "CSS", "JavaScript"],
-    demo: "https://sage-froyo-18ac69.netlify.app/",
+    demo: "https://agecalculator6391.netlify.app/",
     code: "https://github.com/ajayprajapati6391/Calulator",
   },
   {
@@ -120,7 +120,7 @@ export const projects = [
       "A static website clone of Sarkari Result built using HTML and CSS, focusing on layout design and responsive structure.",
     image: sarkari,
     tech: ["HTML", "CSS"],
-    demo: "https://flourishing-zabaione-c36bf0.netlify.app/",
+    demo: "https://sarkariresultclon.netlify.app/",
     code: "https://github.com/ajayprajapati6391/sarkariresult",
   },
   {
